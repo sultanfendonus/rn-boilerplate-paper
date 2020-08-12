@@ -1,4 +1,4 @@
-package com.reactpaperboilerplate;
+package com.qdhamaka.bd;
 
 import com.facebook.react.ReactActivity;
 
